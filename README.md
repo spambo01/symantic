@@ -1,5 +1,7 @@
-#calculating mean, sd, histogram using windows forms
+#calculated mean, sd, histogram using windows forms
+
 ##Using C#,
+
 write some code to:
 ⋅⋅⋅Read the file contents into memory
 write your own algorithms to
